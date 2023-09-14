@@ -1,5 +1,5 @@
-#TP Boostrap
-
+TP Boostrap
+===========
 ## Códigos HTML con y sin Boostrap
 
 Este repositorio contiene dos archivos HTML, `no_bootstrap_index.html` e `index.html`, que puedes visualizar en tu navegador web. Además, ambos archivos hacen referencia a una carpeta llamada `static`, la cual contiene un archivo CSS personalizado e imágenes para ambos HTML.
