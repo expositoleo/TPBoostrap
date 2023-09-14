@@ -4,41 +4,58 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Leonardo Expósito</title>
-    <link rel="stylesheet" href="no_boostrap_style.css" />
+    <link rel="stylesheet" href="static/no_boostrap_style.css" />
   </head>
   <body>
     <header>
-      <img src="pro-user.png" alt="Profile Picture" />
-      <h1>Leonardo David Expósito Marsollier</h1>
-      <div class="header-content">
-        <p>FullStack Developer</p>
-        <p>Contact: leo.expositomarsolleir@gmail.com</p>
-      </div>
+      <span>
+        <img src="static/user.png" alt="Profile Picture" />
+        <h1>Leonardo David Expósito Marsollier</h1>
+        <div class="header-content">
+          <p>FullStack Developer</p>
+          <p>Contact: leo.expositomarsolleir@gmail.com</p>
+        </div>
+      </span>
     </header>
 
     <div class="container">
       <div class="section">
         <h2 class="section-title">About Me</h2>
         <p class="section-text">
-          I am a third year student at UTN FRM and a passionate developer with
-          knowledge in front-end and back-end technologies.<br />
-          I like projects related to automatization process and I am mainly
-          interested in Machine Learning and AI development<br />
-          I use mostly Python for development, but I also have a good base with
-          technologies like Java, C/C++, HTML, CSS and JavaScript.
+          I am a third year student at <span class="emphasis">UTN FRM</span> and
+          a passionate developer with knowledge in front-end and back-end
+          technologies.<br />
+          I like projects related to
+          <span class="highlight">process automation</span> and I am mainly
+          interested in
+          <span class="highlight">Machine Learning and AI development</span
+          ><br />
+          I use mostly <span class="highlight">Python</span> for development,
+          but I also have a good base with technologies like
+          <span class="emphasis">Java</span>,
+          <span class="emphasis">C/C++</span>,
+          <span class="emphasis">HTML</span>,
+          <span class="emphasis">CSS</span> and
+          <span class="emphasis">JavaScript</span>.
         </p>
       </div>
       <!-- item 1 -->
       <div class="portfolio-item">
-        <img src="placeholder1.jpg" alt="Project 1" class="portfolio-img" />
+        <img
+          src="static/placeholder1.jpg"
+          alt="Project 1"
+          class="portfolio-img"
+        />
         <h2>Project 1</h2>
         <p>Description of project 1.</p>
+        <button class="project-button">Learn More</button>
       </div>
       <!-- item 2 -->
       <div class="portfolio-item">
-        <img src="placeholder2.jpg" alt="Project 2" />
+        <img src="static/placeholder2.jpg" alt="Project 2" />
         <h2>Project 2</h2>
         <p>Description of project 2.</p>
+        <button class="project-button">Learn More</button>
       </div>
       <!-- repetir el div con la clase portfolio-item por cada proyecto -->
     </div>
