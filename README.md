@@ -6,10 +6,10 @@ Este repositorio contiene dos archivos HTML, `no_bootstrap_index.html` e `index.
 
 ### Visualización en GitHub
 
-GitHub permite ver archivos HTML en los repositorios directamente desde el navegador. Para esto debe ir a la página principal del repositorio en GitHub y hacer click en uno de los archivos HTML:
+GitHub permite ver el código fuente de los archivos HTML en los repositorios. Para esto debe ir a la página principal del repositorio en GitHub y hacer click en uno de los archivos HTML:
 
-- [**no_bootstrap_index.html**](no_bootstrap_index.html)
-- [**index.html**](index.html)
+- [**no_bootstrap_index.html**](https://github.com/expositoleo/TPBoostrap/blob/master/no_boostrap_index.html)
+- [**index.html**](https://github.com/expositoleo/TPBoostrap/blob/master/index.html)
 
 ### Visualización local
 
